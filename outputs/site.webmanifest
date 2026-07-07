@@ -1,0 +1,16 @@
+{
+  "name": "The Old Blacksmiths",
+  "short_name": "Old Blacksmiths",
+  "description": "A characterful holiday stay in Bridgnorth, Shropshire.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#17211d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
